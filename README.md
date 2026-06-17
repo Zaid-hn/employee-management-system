@@ -19,5 +19,13 @@ A Python OOP project for managing employees and departments.
 - Dictionaries
 - Lists
 - Class Attributes
-- Dunder Methods (**str**, **repr**)
+- Dunder Methods (`__str__`, `__repr__`)
 - Error Handling
+
+## Future Improvements
+
+- Menu-driven interface
+- Data persistence (save/load employees)
+- Employee promotions
+- Department statistics
+- Input validation
